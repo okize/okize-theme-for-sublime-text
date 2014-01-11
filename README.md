@@ -1,3 +1,5 @@
+<p style="color: red; font-weight: bold; font-size: 20px;">In Progress</p>
+
 # Okize Theme
 
 Okize theme for Sublime Text
