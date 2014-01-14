@@ -1,4 +1,4 @@
-<p style="color: red; font-weight: bold; font-size: 20px;">In Progress</p>
+<p style="color: red; font-weight: bold; font-size: 20px;">In Progress!</p>
 
 # Okize Theme
 
